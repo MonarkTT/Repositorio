@@ -2,6 +2,7 @@ const portfolioLinks = {
   github: "https://github.com/MonarkTT/Repositorio",
   linkedin: "",
   certificates: "",
+  projects: ["https://github.com/MonarkTT/sistema-gamers.git"]
 };
 
 document.querySelectorAll("[data-link]").forEach((element) => {
